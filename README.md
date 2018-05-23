@@ -1,0 +1,2 @@
+# Calculator
+This calculator is the homework of the university's second-grade java course and is a calculator that imitates the windows system. The V1.0 version temporarily implements the functions of a standard calculator. It includes integer arithmetic operations (large integers), decimal arithmetic operations, reciprocals, open squares, and n root functions.（这个计算器是大学二年级的java课程的作业，是模仿windows系统下的计算器。V1.0版本暂时实现了标准型计算器的功能。它包括整数（大整数）、小数的四则运算，求倒数，求开平方，求n次方根等操作。）
